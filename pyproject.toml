@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "massmanz_brain_games"
-version = "0.1.0"
-description = "Угадай число!"
+version = "1.0.0"
+description = "Игра Угадай число!"
 authors = ["Vladimir Terentev"]
 packages = [
   { include = "brain_games" },
